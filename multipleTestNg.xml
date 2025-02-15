@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="TestNG Dadadriver suite"  >
+    <!-- suite name="Suite Name" -->
+        <listeners>
+            <listener class-name="utils.ListenersImpl"/>
+        </listeners>
+    <suite-files>
+        <suite-file path="./DBX_249.xml" />
+        <suite-file path="./DBX_608.xml" />
+        <suite-file path="./DBX_634.xml" />
+        <suite-file path="./DBX_847.xml" />
+    </suite-files>
+</suite>

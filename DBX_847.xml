@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="DBX847" preserve-order="true">
+    <listeners>
+        <listener class-name="utils.ListenersImpl"/>
+    </listeners>
+    <test name="DBX847">
+        <classes>
+            <class name="tests.LoginDBX"/>
+            <class name="tests.Filtri.GestioneFiltriFiliale"/>
+            <class name="tests.Filtri.GestioneFiltriLuogo"/>
+            <class name="tests.Filtri.GestioneFiltriNaturaGiuridica"/>
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->

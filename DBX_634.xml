@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="DBX634" preserve-order="true">
+    <listeners>
+        <listener class-name="utils.ListenersImpl"/>
+    </listeners>
+    <test name="DBX634">
+        <classes>
+<!--            <class name="tests.LoginDBX"/>-->
+
+            <class name="tests.DBX634.CercaCodiceFiscale"/>
+            <class name="tests.DBX634.CercaNDG"/>
+            <class name="tests.DBX634.CercaCognomeNomeData"/>
+            <class name="tests.DBX634.CercaNonVisible"/>
+            <class name="tests.DBX634.CercaParziale"/>
+            <class name="tests.DBX634.GestionePreferiti"/>
+            <class name="tests.DBX634.GestioneSchedeVisualizzate"/>
+
+
+        </classes>
+</test> <!-- Test -->
+</suite> <!-- Suite -->

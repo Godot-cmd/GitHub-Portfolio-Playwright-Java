@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="DBX249" preserve-order="true">
+    <listeners>
+        <listener class-name="utils.ListenersImpl"/>
+    </listeners>
+    <test name="DBX249">
+        <classes>
+            <class name="tests.LoginDBX"/>
+
+            <class name="tests.ValidazioneProspect.ValidazioneCodiceFiscale"/>
+            <class name="tests.ValidazioneProspect.ValidazioneCognome"/>
+            <class name="tests.ValidazioneProspect.ValidazioneNome"/>
+            <class name="tests.ValidazioneProspect.ValidazioneTelefono"/>
+            <class name="tests.ValidazioneProspect.ValidazioneEmail"/>
+            <class name="tests.ValidazioneProspect.VerificaDatiPrincipali"/>
+
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="DBX608" preserve-order="true">
+    <listeners>
+        <listener class-name="utils.ListenersImpl"/>
+    </listeners>
+    <test name="DBX608">
+        <classes>
+            <class name="tests.LoginDBX"/>
+
+            <class name="tests.WorkflowCensimentoProspect.VerificaWorkflow"/>
+
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->
