@@ -2,25 +2,25 @@
   "DBX249": {
     "type": "teamcity",
     "buildName": "DBXAN-249",
-    "buildUrl": "https://iontradingcom.sharepoint.com/:x:/r/teams/DBXAnagrafeProject/Shared%20Documents/Test/Automatic%20Tests%20Process%20ATP/Drops%202024/June%202024/K450%20ATP/%5BATP%5D%20-%20DBX%20Anagrafe_ITG%20791920_K450_DBXAN-249_Have%20in%20the%20UI%20the%20management%20of%20mandatory%20data%20for%20Private%20-%20Prospect.xlsm?d=w2adbcfddf92845ffb769cf0533c5048f&csf=1&web=1&e=QkFiDm",
+    "buildUrl": "",
     "reportName": "DBXAN-249 - Have in the UI the management of mandatory data for Private - Prospect"
   },
   "DBX608": {
     "type": "teamcity",
     "buildName": "DBXAN-608",
-    "buildUrl": "https://iontradingcom.sharepoint.com/:x:/r/teams/DBXAnagrafeProject/Shared%20Documents/Test/Automatic%20Tests%20Process%20ATP/Drops%202024/June%202024/K450%20ATP/%5BATP%5D%20-%20DBX%20Anagrafe_ITG%20791920_K450_DBXAN-608_Having%20a%20workflow%20for%20the%20onboarding%20of%20Persona%20Fisica%20Prospect.xlsm?d=w3ed0175d6c5a42ca97f867cbe5383048&csf=1&web=1&e=I3LW25",
+    "buildUrl": "",
     "reportName": "DBXAN-608 - Having a workflow for the onboarding of Persona Fisica Prospect"
   },
   "DBX634": {
     "type": "teamcity",
     "buildName": "DBXAN-634",
-    "buildUrl": "https://iontradingcom.sharepoint.com/:x:/r/teams/DBXAnagrafeProject/Shared%20Documents/Test/Automatic%20Tests%20Process%20ATP/Drops%202024/June%202024/K450%20ATP/%5BATP%5D%20-%20DBX%20Anagrafe_ITG%20791920_K450_DBXAN-608_Having%20a%20workflow%20for%20the%20onboarding%20of%20Persona%20Fisica%20Prospect.xlsm?d=w3ed0175d6c5a42ca97f867cbe5383048&csf=1&web=1&e=I3LW25",
+    "buildUrl": "",
     "reportName": "DBXAN-634 - Workflow search in anagrafe"
   },
   "DBX847": {
     "type": "teamcity",
     "buildName": "DBXAN-847",
-    "buildUrl": "https://iontradingcom.sharepoint.com/:x:/r/teams/DBXAnagrafeProject/Shared%20Documents/Test/Automatic%20Tests%20Process%20ATP/Drops%202024/June%202024/K450%20ATP/%5BATP%5D%20-%20DBX%20Anagrafe_ITG%20791920_K450_DBXAN-847_Have%20in%20the%20UI%20quick%20filters%20on%20the%20results%20provided%20by%20the%20search.xlsm?d=w2b662b6f107241899e050c62cae0433e&csf=1&web=1&e=tIYWji",
+    "buildUrl": "",
     "reportName": "DBXAN-847 - Have in the UI quick filters on the results provided by the search"
   }
 }
